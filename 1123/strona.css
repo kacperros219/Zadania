@@ -1,0 +1,127 @@
+html{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 32, 63);
+}
+.pobocznydiv{
+    width: 10%;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 58px;
+    border-radius: 50px;
+}
+.lista{
+    list-style-type: none;
+    margin-left: -20px;
+}
+.glownydiv{
+   position: absolute;
+    background-color: rgb(221, 221, 221);
+    width: 1400px;
+    height: 888px;
+    margin-left: 220px;
+    margin-top: 58px;
+    border-radius: 25px 25px 25px 0px;
+}
+#search1{
+    width: 30%;
+}
+#dropdown1{
+    margin-left: 650px;
+    position: absolute;
+}
+#button1{
+    margin-left: 500px;
+}
+h1{
+    position: absolute;
+    margin-top: 510px;
+    margin-left: 10px;
+}
+#text1{
+    background-color: black;
+    color: white;
+    margin: 30px;
+ 
+}
+.div1{
+    width: 1360px;
+    height: 600px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 120px;
+    border-radius: 15px;
+}
+.div2{
+    background-color: rgb(221, 221, 221);
+    position: absolute;
+   width: 1300px;
+   height: 300px;
+   border-radius: 25px;
+   margin-left: 30px;
+}
+.div10{
+   position: absolute;
+    margin-top: 40px;
+    width: 300px;
+    margin-left:10px;
+}
+.div11{
+   position: absolute;
+    margin-top: 150px;
+    width: 300px;
+    margin-left:10px;
+}
+.div12{
+    position: absolute;
+    margin-top: 40px;
+    width: 300px;
+    margin-left:330px;
+}
+.div13{
+    position: absolute;
+    margin-top: 150px;
+    width: 300px;
+    margin-left:330px;
+}
+.div14{
+   position: absolute;
+    margin-top: 40px;
+    width: 300px;
+    margin-left:660px;
+}
+.div15{
+    position: absolute;
+    margin-top: 150px;
+    width: 300px;
+    margin-left:660px;
+}
+.div16{
+    position: absolute;
+    margin-top: 40px;
+    width: 300px;
+    margin-left:990px;
+}
+#but1{
+    position: absolute;
+    margin-top: 240px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+#but2{
+    position: absolute;
+    margin-top: 240px;
+    border-radius: 10px;
+    margin-left: 83px;
+    color: white;
+}
+table{
+    position: absolute;
+    margin-top: 300px;
+}
+.aktualny1{
+    background-color: green;
+}
+#text2{
+    margin-left: 900px;
+}
