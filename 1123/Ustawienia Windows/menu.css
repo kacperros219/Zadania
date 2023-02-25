@@ -1,0 +1,425 @@
+
+.div1{
+    height: 200px;
+    background-color:rgb(23, 23, 23) ;
+    width: 1700px;
+    margin-left: -10px;
+    margin-top: -16px;
+}
+.divglowny{
+    background-color: black;
+    width: 1700px;
+    height: 925px;
+    margin-left: -10px;
+}
+.name{
+    color: white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+}
+.email{
+    position: absolute;
+    color: rgb(162, 162, 162);
+    font-family: sans-serif;
+    margin-left: 250px;
+    margin-top: 115px;
+}
+.Microsoft{
+    position: absolute;
+    text-decoration: none;
+    color: red;
+    margin-left: 250px;
+    margin-top: 140px;
+    font-family: sans-serif;
+}
+.Microsoft:hover{
+    color: rgb(131, 131, 131);
+}
+.ustawienia{
+    position: absolute;
+    margin: 15px;
+    color: rgb(238, 238, 238);
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.people{
+position: absolute;
+color: rgb(230, 230, 230);
+width: 125px;
+height: 125px;
+margin-left: 115px;
+margin-top: 50px;
+}
+.One{
+    position: absolute;
+    color: rgb(238, 238, 238);
+    margin-left: 1000px;
+    margin-top: 100px;
+    font-family: sans-serif;
+}
+.One1{
+    position: absolute;
+    color: rgb(162, 162, 162);
+    margin-left: 1000px;
+    margin-top: 130px;
+    font-family: sans-serif;
+}
+.Two{
+    position: absolute;
+    color: rgb(238, 238, 238);
+    margin-left: 1200px;
+    margin-top: 100px;
+    font-family: sans-serif;
+}
+.Two1{
+    position: absolute;
+    color: rgb(162, 162, 162);
+    margin-left: 1200px;
+    margin-top: 130px;
+    font-family: sans-serif;
+}
+.Three{
+    position: absolute;
+    color: rgb(238, 238, 238);
+    margin-left: 1400px;
+    margin-top: 100px;
+    font-family: sans-serif;
+}
+.Three1{
+    position: absolute;
+    color: rgb(162, 162, 162);
+    margin-left: 1400px;
+    margin-top: 150px;
+    font-family: sans-serif;
+}
+.wifi{
+color: white;
+position: absolute;
+margin-left: 1400px;
+height: 50px;
+width: 50px;
+margin-top: 40px;
+}
+.arrow{
+color: white;
+position: absolute;
+margin-left: 1200px;
+height: 50px;
+width: 50px;
+margin-top: 40px;
+}
+.chmura{
+color: white;
+position: absolute;
+margin-left: 1000px;
+height: 50px;
+width: 50px;
+margin-top: 40px;
+}
+.szukaj{
+    height: 24px;
+    width: 370px;
+    margin-left: 650px;
+    margin-top: 35px;
+    position: absolute;
+    border: 2px rgb(102, 102, 102) solid;
+    background-color: black;
+    color: rgb(102, 102, 102);
+}
+.search{
+    color: rgb(102, 102, 102);
+    position: absolute;
+    margin-left: 1004px;
+    margin-top: 42px;
+    rotate: 90deg;
+}
+.system{
+    position: absolute;
+    color: rgb(238, 238, 238);
+    margin-left: 150px;
+    margin-top: 130px;
+    font-family: sans-serif;
+}
+.system1{
+    position: absolute;
+    color: rgb(164, 164, 164);
+    font-family: sans-serif;
+    margin-left: 150px;
+    margin-top: 155px;
+}
+.urządzenia{
+    position: absolute;
+    color: rgb(238, 238, 238);
+    margin-left: 450px;
+    margin-top: 130px;
+    font-family: sans-serif;
+}
+.urządzenia1{
+    position: absolute;
+    color: rgb(164, 164, 164);
+    font-family: sans-serif;
+    margin-left: 450px;
+    margin-top: 155px;
+}
+.telefon{
+    position: absolute;
+    color: rgb(238, 238, 238);
+    margin-left: 750px;
+    margin-top: 130px;
+    font-family: sans-serif;
+}
+.telefon1{
+    position: absolute;
+    color: rgb(164, 164, 164);
+    font-family: sans-serif;
+    margin-left: 750px;
+    margin-top: 155px;
+}
+.siec{
+    position: absolute;
+    color: rgb(238, 238, 238);
+    margin-left: 1050px;
+    margin-top: 130px;
+    font-family: sans-serif;
+}
+.siec1{
+    position: absolute;
+    color: rgb(164, 164, 164);
+    font-family: sans-serif;
+    margin-left: 1050px;
+    margin-top: 155px;
+}
+.presonalizacja{
+     position: absolute;
+     color: rgb(238, 238, 238);
+     margin-left: 1350px;
+     margin-top: 130px;
+     font-family: sans-serif;
+    }
+.presonalizacja1{
+     position: absolute;
+     color: rgb(164, 164, 164);
+     font-family: sans-serif;
+     margin-left: 1350px;
+     margin-top: 155px;
+    }
+.aplikacje{
+     position: absolute;
+     color: rgb(238, 238, 238);
+     font-family: sans-serif;
+     margin-left: 150px;
+     margin-top: 300px;
+    }
+.aplikacje1{
+     position: absolute;
+     color: rgb(164, 164, 164);
+     font-family: sans-serif;
+     margin-left: 150px;
+     margin-top: 325px;
+    }
+.konta{
+     position: absolute;
+     color: rgb(238, 238, 238);
+     font-family: sans-serif;
+     margin-left: 450px;
+     margin-top: 300px;
+    }
+.konta1{
+     position: absolute;
+     color: rgb(164, 164, 164);
+     font-family: sans-serif;
+     margin-left: 450px;
+     margin-top: 325px;
+    }
+.czas{
+     position: absolute;
+     color: rgb(238, 238, 238);
+     font-family: sans-serif;
+     margin-left: 750px;
+     margin-top: 300px;
+    }
+.czas1{
+     position: absolute;
+     color: rgb(164, 164, 164);
+     font-family: sans-serif;
+     margin-left: 750px;
+     margin-top: 325px;
+    }
+.granie{ 
+    position: absolute;
+    color: rgb(238, 238, 238);
+    font-family: sans-serif;
+    margin-left: 1050px;
+    margin-top: 300px;
+}
+.granie1{
+     position: absolute;
+     color: rgb(164, 164, 164);
+     font-family: sans-serif;
+     margin-left: 1050px;
+     margin-top: 325px;
+}
+.ultdost{
+     position: absolute;
+     color: rgb(238, 238, 238);
+     font-family: sans-serif;
+     margin-left: 1350px;
+     margin-top: 300px;
+}
+.ultdost1{ 
+    position: absolute;
+    color: rgb(164, 164, 164);
+    font-family: sans-serif;
+    margin-left: 1350px;
+    margin-top: 325px;
+}
+.wyszukiwanie{
+     position: absolute;
+     color: rgb(238, 238, 238);
+     font-family: sans-serif;
+     margin-left: 150px;
+     margin-top: 470px;
+}
+.wyszukiwanie1{ 
+    position: absolute;
+    color: rgb(164, 164, 164);
+    font-family: sans-serif;
+    margin-left: 150px;
+    margin-top: 495px;
+}
+.private{ 
+    position: absolute;
+    color: rgb(238, 238, 238);
+    font-family: sans-serif;
+    margin-left: 450px;
+    margin-top: 470px;
+}
+.private1{
+     position: absolute;
+     color: rgb(164, 164, 164);
+     font-family: sans-serif;
+     margin-left: 450px;
+     margin-top: 495px;
+}
+.aktualizacje{
+     position: absolute;
+     color: rgb(238, 238, 238);
+     font-family: sans-serif;
+     margin-left: 250px;
+     margin-left: 750px;
+     margin-top: 470px;
+}
+.aktualizacje1{ 
+    position: absolute;
+    color: rgb(164, 164, 164);
+    font-family: sans-serif;
+    margin-left: 750px;
+    margin-top: 515px;
+}
+.laptop{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    height: 30px;
+    width: 30px;
+    margin-left: 100px;
+    margin-top: 130px;
+}
+.bluetooth{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    margin-top: 130px;
+    height: 30px;
+    width: 30px;
+    margin-left: 400px;
+}
+.phone{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    margin-top: 130px;
+    height: 30px;
+    width: 30px;
+    margin-left: 700px;
+}
+.globe{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    margin-top: 130px;
+    height: 30px;
+    width: 30px;
+    margin-left: 1000px;
+}
+.pencil{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    margin-top: 130px;
+    height: 30px;
+    width: 30px;
+    margin-left: 1300px;
+}
+.line{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    height: 30px;
+    width: 30px;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.ludz{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    height: 30px;
+    width: 30px;
+    margin-top: 300px;
+    margin-left: 400px;
+}
+.time{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    height: 30px;
+    width: 30px;
+    margin-top: 300px;
+    margin-left: 700px;
+}
+.xbox{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    height: 30px;
+    width: 30px;
+    margin-top: 300px;
+    margin-left: 1000px;
+}
+.collection{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    height: 30px;
+    width: 30px;
+    margin-top: 300px;
+    margin-left: 1300px;
+}
+.search2{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    height: 30px;
+    width: 30px;
+    margin-top: 470px;
+    margin-left: 100px;
+}
+.lock{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    height: 30px;
+    width: 30px;
+    margin-top: 470px;
+    margin-left: 400px;
+}
+.arrowrepeat{
+    position: absolute;
+    color: rgb(232, 17, 35);
+    height: 30px;
+    width: 30px;
+    margin-top: 470px;
+    margin-left: 700px;
+}
