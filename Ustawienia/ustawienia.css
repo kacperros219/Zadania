@@ -1,0 +1,221 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.naglowek{
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
+.arrow{
+    color: white;
+}
+.phone{
+   color: white;
+}
+.cloud{
+     color: white;
+}
+header{
+    background-color: rgb(23, 23, 23);
+    width: 100%;
+    height: 25vmin;
+}
+.name{
+    color: white;
+    font-size: 3vmin;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.email{
+    color: rgb(120, 120, 120);
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+.cos{
+    color: white;
+    width: 7vmin;
+    height: 7vh;
+}
+.naglowek2{
+  margin-top: 2vmin;
+   padding-left: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.four-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    width:100vmin;
+    float:right;
+    
+   
+    color: white;
+
+}
+
+.onedrive>p , .phone>p , .update>p , .calendar>p  {
+    font-size: 2vmin;
+   
+    font-family: sans-serif;
+}
+
+.onedrive>span , .phone>span , .update>span , .calendar>span  {
+    font-size: 1.5vmin;
+    font-family: sans-serif;
+    color: rgb(120, 120, 120);
+}
+
+.onedrive>p,span , .phone>p,span , .update>p,span , .calendar>p,span  {
+    margin-left: -1vmin;
+    font-family: sans-serif;
+}
+@media only screen and (max-width: 750px) {
+    
+    .naglowek2 {
+        height: 22vh;
+    }
+   header{
+    
+    height: 35vmin;
+   }
+.ust1{
+    font-size: 2.5vmin;
+}
+    .ludz>.name>.email {
+        width:20vmin;
+        font-size: 3vmin;;
+    }
+    .ludz>.name>.email {
+        width:20vmin;
+        font-size: 1.5vmin;
+    }
+    .ludz>.name>a {
+        width: 20vmin;
+        font-size: 1.5vmin;
+    }
+
+   
+    .four-icons {
+        width: 58vmin;
+    }
+    .four-icons>div>p {
+       font-size: 2vmin;
+    }
+    .four-icons>div>span {
+        font-size: 2vmin;
+    }
+    .four-icons>div>svg {
+        width: 8vmin;
+        height: 8vmin;
+    }
+}
+.grid {
+    padding: 10vmin;
+    display: grid;
+    grid-template-columns: repeat(5, 30vmin);
+    grid-template-rows: repeat(3, 10vmin);
+    grid-column-gap: 2vmin;
+    grid-row-gap: 8vmin;  
+}
+.grid>div {
+    font-size: 2vmin;
+    display: flex;
+    flex-direction: row;
+    
+}
+span{
+    color: rgb(120, 120, 120);
+}
+.grid>div>div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.grid>div>div>span {
+    margin-left: 0vmin;
+    font-size: 1.5vmin;
+}
+.grid>div>svg {
+    margin-right: 1vmin;
+}
+svg{
+    color: red;
+}
+.grid>div>div>p {
+    font-size: 2vmin;
+}
+@media only screen and (max-width:1350px) {
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(3, 25vmin);
+        grid-template-rows: repeat(4, 7.5vmin);
+        grid-column-gap: 1vmin;
+        grid-row-gap: 4vmin;  
+        
+    }
+}
+@media only screen and (max-width:600px){
+    .grid{
+      transition: 10s;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .four-icons{
+        margin-top: 20px;
+    }
+    .naglowek2 {
+       margin-top: -30px;
+    }
+    .div1{
+        margin-top: 5px;
+    }
+    .div2{
+        margin-top: 5px;
+    }
+    .div3{
+        margin-top: 5px;
+    }
+    .div4{
+        margin-top: 5px;
+    }
+    .div5{
+        margin-top: 5px;
+    }
+    .div6{
+        margin-top: 5px;
+    }
+    .div7{
+        margin-top: 5px;
+    }
+    .div8{
+        margin-top: 5px;
+    }
+    .div9{
+        margin-top: 5px;
+    }
+    .div10{
+        margin-top: 5px;
+    }
+    .div11{
+        margin-top: 5px;
+    }
+    .div12{
+        margin-top: 5px;
+    }
+    .div13{
+        margin-top: 5px;
+    }
+}
