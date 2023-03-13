@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    width: 100%;
+     background-image: radial-gradient( rgb(9, 156, 234), rgb(15, 44, 160));
+}
+.naglowek{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  
+}
+.odstepy{
+    display: flex;
+    justify-content: space-around;
+    height: 20vh;
+    width: 120vmin;
+    display: flex;
+    margin-top: 5vh;
+ 
+}
+aside{
+    width: 20%;
+    height: 100vh;
+    background-color: black;
+    float: right;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.skin{
+    margin-left: 4vmin;
+   align-items: center;
+   justify-content: space-between;
+    width: 53.5vmin;
+    display: flex;
+    flex-direction: row;
+}
+.emotion{
+    display: flex;
+    flex-direction: row;
+}
+.paint{
+    display: flex;
+    flex-direction: row;
+}
+.ogol{
+    display: flex;
+    flex-direction: row;
+}
+.skin1{
+
+    width: 10vmin;
+    height: 12vh;
+}
+.oso{
+    width: 10vmin;
+    height: 12vh;
+}
+.plecak{
+    width: 10vmin;
+    height: 12vh;
+}
+.kil{
+    width: 10vmin;
+    height: 12vh;
+}
+.lot{
+    width: 10vmin;
+    height: 12vh;
+}
+.spad{
+    width: 10vmin;
+    height: 12vh;
+}
+.emotion{
+    margin-top: 0.5vh;
+    margin-left: 4vmin;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 45.5vmin;
+}
+.dance1{
+    width: 7vmin;
+    height: 9vh;
+}
+.paint{
+    margin-top: 0.2vh;
+    margin-left: 4vmin;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 53.5vmin;
+}
+.mal{
+    width: 7vmin;
+    height: 9vh;
+}
+.ogol{
+    margin-top: 0.2vh;
+    margin-left: 4vmin;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 22.5vmin;
+}
+.baner{
+    width: 7vmin;
+    height: 9vh;
+}
+.musc{
+    width: 7vmin;
+    height: 9vh;
+}
+.ekr{
+    width: 7vmin;
+    height: 9vh;
+}
+.niger{
+  
+   
+    background-color: green;
+    width: 100%;
+    height: 10vh;
+}
