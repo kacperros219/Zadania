@@ -1,0 +1,513 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+   height: 100%;
+   width: 100%;
+    background-image: radial-gradient( rgb(9, 156, 234), rgb(15, 44, 160));
+}
+
+
+
+
+.info{
+    cursor: pointer;
+    color: rgb(213, 243, 255);
+    font-size: 1.5vmin;
+   font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-top: 3vh;
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   width: 270vmin;
+
+}
+.prosze{
+    cursor: pointer;
+    color: rgb(213, 243, 255);
+    font-size: 1.5vmin;
+   font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   width: 115vmin;
+}
+.aside2{
+   margin-right: -5vmin;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  
+}
+.ocs3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 18.5vmin;
+    
+}
+.vdolc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 7vmin;
+    height: 4vh;
+    justify-content: center;
+   
+}
+.vdolc2{
+    margin-left: -25px;
+
+width: 3.5vmin;
+}
+.option{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.line{
+width: 3.5vmin;
+height: 3.5vh;
+margin-top: 0.3vh;
+}
+.znaj1{
+   
+  
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+color: rgb(20, 196, 255);
+  width: 6vmin;
+  height: 4vh;
+  background-color: rgb(8, 0, 146);
+  border: 3px solid rgb(8, 72, 244);
+}
+.per{
+    color: rgb(20, 196, 255); 
+    width: 4vmin;
+    height: 3vh;
+}
+p{
+   
+    font-size: 2.5vmin;
+}
+.graj{
+  
+    width: 6vmin;
+    height: 4vh;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.graj1{
+    width: 16.2vmin;
+    height: 4vh;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.graj2{
+    width: 13.5vmin;
+    height: 4vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.graj3{
+    width: 8.6vmin;
+    height: 4vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.graj4{
+    width: 21.2vmin;
+    height: 4vh;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.graj5{
+    width: 9.2vmin;
+    height: 4vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.graj6{
+    width: 9.5vmin;
+    height: 4vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.graj:hover{
+    color: rgb(7, 0, 75);
+background-color: white;
+}
+.graj1:hover{
+    color: rgb(7, 0, 75);
+    background-color: white;
+}
+.graj2:hover{
+    color: rgb(7, 0, 75);
+    background-color: white;
+}
+.graj3:hover{
+    color: rgb(7, 0, 75);
+    background-color: white;
+}
+.graj4:hover{
+    color: rgb(7, 0, 75);
+    background-color: white;
+}
+.graj5:hover{
+    color: rgb(7, 0, 75);
+    background-color: white;
+}
+.graj6:hover{
+    color: rgb(7, 0, 75);
+    background-color: white;
+}
+.info2{
+display: flex;
+justify-content: center;
+
+
+}
+.items{
+    margin-top: 15vh;
+   margin-left: 6vmin;
+    display: flex;
+ width: 100vmin;
+ height: 69vh;
+    flex-direction: column;
+}
+.skin{
+    display: flex;
+    flex-direction: row;
+   
+    width: 53.5vmin;
+  
+
+}
+.oso{
+    width: 10vmin;
+    height: 12vh;
+    mix-blend-mode: multiply;
+    filter: brightness(150%);
+    
+  }
+
+.plecak{
+    width: 10vmin;
+    height: 12vh;
+}
+.kil{
+    width: 10vmin;
+    height: 12vh;
+}
+.lot{
+    width: 10vmin;
+    height: 12vh;
+}
+.spad{
+    width: 10vmin;
+    height: 12vh; 
+}
+.skin1{
+    width: 10vmin;
+    height: 12vh;
+    background-image:radial-gradient(rgb(20, 96, 191), rgb(21, 128, 213));
+}
+.ogol{
+    margin-top: 0.75vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 22.5vmin;
+}
+.ogol1{
+    background-image:radial-gradient(rgb(3, 74, 175), rgb(35, 123, 207));
+    width: 7vmin;
+    height: 9vh;
+}
+.ogol2{
+    background-image:linear-gradient(to top left,rgb(20, 62, 137), rgb(81, 131, 230), rgb(19, 33, 65));
+    width: 7vmin;
+    height: 9vh;
+  
+}
+.ekr{
+    width: 7vmin;
+    height: 9vh; 
+    
+   
+}
+.baner{
+    width: 7vmin;
+    height: 9vh;
+}
+.musc{
+    width: 7vmin;
+    height: 9vh;
+  mix-blend-mode: multiply;
+  filter: opacity(150%);
+}
+.paint{
+    margin-top: 0.75vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 53vmin;
+}
+.mal{
+    width: 7vmin;
+    height: 9vh;
+    mix-blend-mode: multiply;
+   
+}
+.mal{
+ filter: opacity(150%);
+}
+.paint1{
+    background-image:linear-gradient(to top left,rgb(20, 62, 137), rgb(81, 131, 230), rgb(19, 33, 65));
+    width: 7vmin;
+    height: 9vh;
+}
+.emotion{
+    margin-top: 0.75vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 45.5vmin;
+}
+.emotion1{
+    background-color: gray;
+    width: 7vmin;
+    height: 9vh;
+}
+.dance1{
+    width: 7vmin;
+    height: 9vh;
+   
+}
+.dance2{
+    width: 7vmin;
+    height: 9vh;
+}
+.dance3{
+    width: 7vmin;
+    height: 9vh;
+}
+.dance4{
+    width: 7vmin;
+    height: 9vh;
+}
+.dance5{
+    width: 7vmin;
+    height: 9vh;
+}
+.dance6{
+    width: 7vmin;
+    height: 9vh;
+}
+.vdolc{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    width: 12vmin;
+    height: 4vh;
+    background-color: rgb(8, 0, 146);
+    border: 3px solid rgb(8, 72, 244);
+color: rgb(20, 196, 255);
+font-size: 3vmin;
+font-weight: bold;
+font-family: sans-serif;
+
+
+}
+.vdolc2{
+    height: 4vh;
+    mix-blend-mode: multiply;
+    
+}
+p{
+ height: 3vh;
+}
+.option{
+    background-color: rgb(8, 0, 146);
+    border: 3px solid rgb(8, 72, 244);
+color: rgb(20, 196, 255);
+width: 6vmin;
+height: 4vh;
+    
+  
+}
+.aside3{
+  margin-top: -25vh;
+   float: right;
+    height: 94vh;
+    width: 35vmin;
+    background-color: rgba(12, 45, 165, 0.384);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.wczytaj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     margin-top: 2vh;
+    color: rgb(56, 210, 255);
+    background-color: rgb(0, 122, 227);
+    width: 27vmin;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 5vh;
+    
+    border: 0.7vmin solid rgb(56, 210, 255);
+}
+.wczytaj1{
+    margin-top: 1vh;
+    color: rgb(56, 210, 255);
+    background-color: rgb(0, 122, 227);
+    width: 27vmin;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.7vmin solid rgb(56, 210, 255);
+}
+.wczytaj2{
+    margin-top: 1vh;
+    color: rgb(56, 210, 255);
+    font-family: sans-serif;
+    background-color: rgb(0, 122, 227);
+    width: 27vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    text-align: center;
+    height: 5vh;
+    border: 0.7vmin solid rgb(56, 210, 255);
+}
+.domys{
+    color: rgb(73, 179, 255);
+  font-size: 2.2vmin;
+  font-weight: bold;
+  text-align: center;
+  font-family: sans-serif;
+  
+}
+
+.chat{
+   display: flex;
+   justify-content: flex-end;
+    background-color: rgb(2, 0, 106);
+    width: 100%;
+    height: 8.4vh;
+}
+
+input{
+    background-color: rgb(1, 0, 78);
+    border: none;
+    width: 60vmin;
+    height: 6vh;
+    color: yellow;
+    font-weight:bold;
+    font-size: 2vmin;
+}
+span{
+    color: rgb(135, 236, 255);
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tekst1{
+    color: rgb(91, 190, 255);
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.arrow{
+    color: rgb(80, 209, 247);
+    width: 6vmin;
+    height: 6vh;
+}
+.tekst{
+    margin-top: 8vh;
+    width: 78vmin;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fort{
+ 
+  
+    margin-top: -78vh;
+   margin-right: 55vmin;
+    float: right;
+    height: 70vh;
+    width: 50vmin;
+}
+
+.niepospolity{
+   
+    margin-right: 45vmin;
+   margin-top: -7vh;
+    float: right;
+    color: rgb(53, 239, 255);
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.green{
+    margin-left: 3vmin;
+    background-color: rgb(0, 67, 2);
+    border: 0.6vmin solid rgb(76, 171, 33);
+    color: rgb(92, 175, 41);
+}
+
+.duch{
+    margin-top: 10px;
+    margin-right: 5vmin;
+    color: white;
+    font-size: 4vmin;
+}
+.nyga{
+    margin-left: 10vmin;
+}
+@media only screen and (max-width:1800px){
+   .fort{
+     width: 30vmin;
+     height: 50vh;
+   }
+    .prosze{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .items{
+        margin-top: -19vh;
+    }
+    .aside3{
+        height: 103vh;
+        
+    }
+    .ryba{
+      
+    }
+    }
